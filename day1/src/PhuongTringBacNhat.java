@@ -14,7 +14,7 @@ public class PhuongTringBacNhat {
                 System.out.println("phương trình vô nghiệm");
             }
         } else {
-            System.out.println("Phương trình có 1 nghiệm là :" + (-b / a));
+            System.out.printf("Equation pass with x = %f!\n" , (-b / a));
         }
     }
 
