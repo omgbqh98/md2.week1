@@ -6,11 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25d61eb5-9cab-4527-b8c4-446f89944f23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/btDay1/src/ChuyenDoiTien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btDay1/src/DocSoThanhChu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btDay1/src/DoiSoThanhChu2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btDay1/src/hienThiLoiChao.java" beforeDir="false" afterPath="$PROJECT_DIR$/btDay1/src/hienThiLoiChao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/btDay1/hienThiLoiChao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/btDay1/hienThiLoiChao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btDay1/src/DocSoThanhChu.java" beforeDir="false" afterPath="$PROJECT_DIR$/btDay1/src/DocSoThanhChu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/btDay1/DocSoThanhChu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/btDay1/DocSoThanhChu.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.ChuyenDoiTien">
+  <component name="RunManager" selected="Application.DocSoThanhChu">
     <configuration name="ChuyenDoiTien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChuyenDoiTien" />
       <module name="btDay1" />
@@ -58,6 +57,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DoiSoThanhChu2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoiSoThanhChu2" />
+      <module name="btDay1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hienThiLoiChao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hienThiLoiChao" />
       <module name="btDay1" />
@@ -65,23 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChuyenDoiTien" />
         <item itemvalue="Application.DocSoThanhChu" />
+        <item itemvalue="Application.DoiSoThanhChu2" />
+        <item itemvalue="Application.ChuyenDoiTien" />
         <item itemvalue="Application.hienThiLoiChao" />
       </list>
     </recent_temporary>
@@ -97,7 +102,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599578690863</updated>
-      <workItem from="1599617446349" duration="8590000" />
+      <workItem from="1599617446349" duration="16637000" />
+      <workItem from="1599656867747" duration="2014000" />
     </task>
     <servers />
   </component>
@@ -117,26 +123,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="595" height="162" key="GridCell.Tab.0.bottom" timestamp="1599624844437">
+    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1599647495250">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599624844437" />
-    <state width="595" height="162" key="GridCell.Tab.0.center" timestamp="1599624844436">
+    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599647495250" />
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1599658569044">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599624844436" />
-    <state width="595" height="162" key="GridCell.Tab.0.left" timestamp="1599624844436">
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599658569044" />
+    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1599658569043">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599624844436" />
-    <state width="595" height="162" key="GridCell.Tab.0.right" timestamp="1599624844436">
+    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599658569043" />
+    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1599658569043">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599624844436" />
-    <state x="90" y="0" key="new project wizard" timestamp="1599617787315">
+    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599658569043" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1599658569044">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="90" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1599617787315" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599658569044" />
+    <state x="90" y="0" key="new project wizard" timestamp="1599647508191">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="90" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1599647508191" />
     <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1599618369619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
