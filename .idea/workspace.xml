@@ -6,13 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25d61eb5-9cab-4527-b8c4-446f89944f23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/btDay1/btDay1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btDay1/src/hienThiLoiChao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/THday1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/day1.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/btDay1/src/ChuyenDoiTien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btDay1/src/DocSoThanhChu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btDay1/src/hienThiLoiChao.java" beforeDir="false" afterPath="$PROJECT_DIR$/btDay1/src/hienThiLoiChao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/btDay1/hienThiLoiChao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/btDay1/hienThiLoiChao.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +41,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ChuyenDoiTien">
+    <configuration name="ChuyenDoiTien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChuyenDoiTien" />
+      <module name="btDay1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocSoThanhChu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DocSoThanhChu" />
+      <module name="btDay1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hienThiLoiChao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hienThiLoiChao" />
       <module name="btDay1" />
@@ -67,6 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChuyenDoiTien" />
+        <item itemvalue="Application.DocSoThanhChu" />
         <item itemvalue="Application.hienThiLoiChao" />
       </list>
     </recent_temporary>
@@ -82,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599578690863</updated>
-      <workItem from="1599617446349" duration="924000" />
+      <workItem from="1599617446349" duration="8590000" />
     </task>
     <servers />
   </component>
@@ -102,22 +117,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="153" key="GridCell.Tab.0.bottom" timestamp="1599578795239">
+    <state width="595" height="162" key="GridCell.Tab.0.bottom" timestamp="1599624844437">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="153" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599578795239" />
-    <state width="1237" height="153" key="GridCell.Tab.0.center" timestamp="1599578795239">
+    <state width="595" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599624844437" />
+    <state width="595" height="162" key="GridCell.Tab.0.center" timestamp="1599624844436">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="153" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599578795239" />
-    <state width="1237" height="153" key="GridCell.Tab.0.left" timestamp="1599578795238">
+    <state width="595" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599624844436" />
+    <state width="595" height="162" key="GridCell.Tab.0.left" timestamp="1599624844436">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="153" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599578795238" />
-    <state width="1237" height="153" key="GridCell.Tab.0.right" timestamp="1599578795239">
+    <state width="595" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599624844436" />
+    <state width="595" height="162" key="GridCell.Tab.0.right" timestamp="1599624844436">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="153" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599578795239" />
+    <state width="595" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599624844436" />
     <state x="90" y="0" key="new project wizard" timestamp="1599617787315">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
